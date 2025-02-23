@@ -11,6 +11,7 @@ A groundbreaking React library for advanced data visualization, combining the po
 - Smart dragging with physics simulation
 - State management for navigation history
 
+
 ### 2. Temporal Force Graph
 - Time-based interactions with rewind/fast-forward controls
 - Temporal force fields affecting node positioning
